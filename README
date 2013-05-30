@@ -1,0 +1,38 @@
+Amiga360 - P-UAE 2.3.3 for Xbox 360 Console
+-------------------------------------------
+
+Features
+--------
+
+- Based off P-UAE V2.3.3
+- Simple and easy to use GUI
+- Full Mouse/Keyboard support
+- OCS/ECS/AGA/Picasso96 emulation
+- Hardfile emulation
+- Savestate support
+- BSD Socket Emulation (experimental)
+- Filesystem emulation (experimental)
+- Drive click support
+- Prebuilt config files included.
+- Source code included.
+- Tested and working with Amiga-SYS, ClassicWB and AIAB
+
+PUAE 2.3.3 beta series
+---------------------------------------------------
+PUAE tries to continue where E-UAE left off..
+PUAE versioning is based on the merged WinUAE version..
+
+All is done by:
+	Mustafa 'GnoStiC' TUFAN (mustafa.tufan@gmail.com)
+
+Thanks:
+ Steven 'xaind' Saunders (MacOSX fix), 'wuffe' (FreeBSD fix)
+ 'internetzel' (PPC fix), Nick 'chiark' Lines (morale support)
+
+
+
+GIT
+---------------------------------------------------
+https://github.com/lantus/Amiga360
+
+
